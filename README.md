@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Ag_KHyEACZ-spZxuFhvk17E7p2Hdpo24/view](https://drive.google.com/file/d/1Ag_KHyEACZ-spZxuFhvk17E7p2Hdpo24/view)
 
-- ⚡ Fun fact **I am Passionate**
+- ⚡ Fun fact **I am Lazzy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
