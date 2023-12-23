@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Embaded System & Mechanical Design**
 
-- 👨‍💻 All of my projects are available at [https://samiunarno.github.io/samiunarnopro/](https://samiunarno.github.io/samiunarnopro/)
+- 👨‍💻 All of my projects are available at [https://samiunarno.github.io/samiunarnopro/](https://samiunarno.netlify.app/)
 
 - 📫 How to reach me **samiunarnoscholar@gmail.com**
 
