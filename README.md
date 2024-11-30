@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://samiunarno.netlify.app/](https://samiunarno.netlify.app/)
 
-- 📫 How to reach me **samiunarnoscholar@gmail.com**
+- 📫 How to reach me **samiunarnouk@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Ag_KHyEACZ-spZxuFhvk17E7p2Hdpo24/view](https://drive.google.com/file/d/1Ag_KHyEACZ-spZxuFhvk17E7p2Hdpo24/view)
 
