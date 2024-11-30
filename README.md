@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **samiunarnouk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ag_KHyEACZ-spZxuFhvk17E7p2Hdpo24/view](https://drive.google.com/file/d/1Ag_KHyEACZ-spZxuFhvk17E7p2Hdpo24/view)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I am Lazzy**
 
