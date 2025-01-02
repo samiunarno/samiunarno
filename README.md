@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samiun Mahmud Arno</h1>
-<h3 align="center">A passionate Computer Science & Engineer from Bangladesh</h3>
+<h3 align="center">CODE -> Eat -> Sleep -> return() </h3>
 
 <img align="right" alt="coding" width="500"  src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
