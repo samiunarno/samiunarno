@@ -1,36 +1,83 @@
-<h1 align="center">Hi 👋, I'm Samiun Mahmud Arno</h1>
-<h3 align="center">CODE -> Eat -> Sleep -> return() </h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Samiun+Mahmud+Arno" alt="Header" />
+  <h3 align="center" style="color: #38BDF8;">Full-Stack Developer | AI Enthusiast | PCB Designer</h3>
+</div>
 
-<img align="right" alt="coding" width="500"  src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samiunarno&label=Profile%20views&color=0e75b6&style=flat" alt="samiunarno" /> </p>
 
-- 🌱 I’m currently learning **Embaded System & Mechanical Design**
 
-- 👨‍💻 All of my projects are available at [https://samiunarno.netlify.app/](https://samiunarno.netlify.app/)
+---
 
-- 📫 How to reach me **samiunarnouk@gmail.com**
+### 🔍 About Me
+- 🧑‍💻 Full-stack developer with competitive programming background  
+- 🤖 Passionate about AI/ML and embedded systems  
+- 🛠️ Electronics enthusiast and PCB designer  
+- 🌱 Currently exploring mechanical design principles  
 
-- 📄 Know about my experiences 
+---
 
-- ⚡ Fun fact **I am Lazzy**
+### 🛠️ Technologies & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/samiunarno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samiunarno" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samiunmahmudarno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiunmahmudarno" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22052909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22052909" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/samiunarno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/samiunarno" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/belikeapro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="belikeapro" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/samiunarno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="samiunarno" height="30" width="40" /></a>
-<a href="https://discord.gg/samiunarno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samiunarno" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <h3 style="color: #38BDF8;">🛠️Technologies that I know</h3>
+</div>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="Programming Languages" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiunarno&show_icons=true&locale=en&layout=compact" alt="samiunarno" /></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,react,nextjs,redux" alt="Frontend" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samiunarno&show_icons=true&locale=en" alt="samiunarno" /></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,prisma" alt="Backend" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samiunarno&" alt="samiunarno" /></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,githubactions,tailwind" alt="DevOps" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Embedded" />
+</div>
+
+---
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samiunarno&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiunarno&layout=compact&theme=nightowl&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiunarno&theme=nightowl&hide_border=true" alt="Streak Stats" />
+</div>
+
+---
+
+### 📬 Contact Me
+
+<div align="center">
+  <a href="mailto:samiunarnouk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/samiunmahmudarno">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://samiunarno.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+---
+
+> 🧠 _“First, solve the problem. Then, write the code.”_  
+> — *John Johnson*
+
+---
+
+> ⭐ *If you like what I do, consider giving my repositories a star!*
+
+---
