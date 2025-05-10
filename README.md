@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Samiun+Mahmud+Arno" alt="Header" />
   <h3 align="center" style="color: #38BDF8;">Full-Stack Developer | AI Enthusiast | PCB Designer</h3>
@@ -5,7 +6,12 @@
 
 ---
 
+## :chart_with_upwards_trend: Current Stats
 
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 ---
 
