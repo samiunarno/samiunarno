@@ -1,7 +1,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Samiun+Mahmud+Arno" alt="Header" />
-  <h3 align="center" style="color: #38BDF8;">Full-Stack Developer | AI Enthusiast | PCB Designer</h3>
+  <h3 align="center" style="color: #38BDF8;">Full-Stack Developer | AI Enthusiast | DevOps Engineer</h3>
 </div>
 
 ---
