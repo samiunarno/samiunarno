@@ -11,7 +11,7 @@
 ### 🔍 About Me
 - 🧑‍💻 Full-stack developer with competitive programming background  
 - 🤖 Passionate about AI/ML and embedded systems  
-- 🛠️ Electronics enthusiast and  
+- 🛠️ Electronics enthusiast  
 - 🌱 Currently exploring mechanical design principles  
 
 ---
