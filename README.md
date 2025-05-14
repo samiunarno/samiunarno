@@ -50,11 +50,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiunarno&layout=compact&theme=nightowl&hide_border=true" />
 </div>
 
-<div align="center" style="background-color:#0f0f0f; padding: 20px; border-radius: 15px; box-shadow: 0 0 20px #00f0ff;">
-  <h2 style="color: #00f0ff; text-shadow: 0 0 10px #00f0ff;">🔥 My GitHub Streak 🔥</h2>
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=samiunarno&theme=nightowl&hide_border=true" alt="Streak Stats" style="border-radius: 10px; box-shadow: 0 0 20px #00f0ff;" />
-</div>
+
 
 
 
