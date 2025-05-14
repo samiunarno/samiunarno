@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+
 
 <div align="center">
   <h3 style="color: #38BDF8;">🛠️Technologies that I know</h3>
