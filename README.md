@@ -24,7 +24,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php" alt="Programming Languages" />
 </div>
 
 <div align="center">
