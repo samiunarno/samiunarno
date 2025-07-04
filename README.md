@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,prisma,mongoose" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,prisma" alt="Backend" />
 </div>
 
 <div align="center">
